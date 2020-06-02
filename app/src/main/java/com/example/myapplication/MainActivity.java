@@ -10,15 +10,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        
-
-        //000000000000000000000000000
-        
-        
-        
-        
-        
-        //333333333333333333333
+       //dev2新增功能
     }
     
     
