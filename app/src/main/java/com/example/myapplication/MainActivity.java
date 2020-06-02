@@ -10,18 +10,11 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-       //dev2新增功能；；；；；；
+
+        //dev
     }
-    
-    
-    private void testdev222(){}
-    
-    private void testdev2(){}
 
+    
+    private void testdev1(){}
 
-//    private void test(){}//2222222222222222222222
-//
-//    private void test2(){}
-
-//ppppppppppppppppppp
 }
